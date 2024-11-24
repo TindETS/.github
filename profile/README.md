@@ -24,6 +24,7 @@ Our tech stack is simple, robust, and focused on scalability:
 - **MariaDB**: To manage all those matches.
 - **Python Flask**: The brains behind our API.
 - **React Native**: Ensuring our app feels at home on any smartphone.
+- **Docker**: Streamlining development, deployment, and scalability by containerizing our app.
 
 ---
 
